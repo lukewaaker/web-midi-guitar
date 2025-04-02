@@ -1,0 +1,43 @@
+{
+  "hash": "b16002e9",
+  "configHash": "0b4d851d",
+  "lockfileHash": "dc852249",
+  "browserHash": "d2386a83",
+  "optimized": {
+    "@angular/core": {
+      "src": "../../../../../../node_modules/@angular/core/fesm2022/core.mjs",
+      "file": "@angular_core.js",
+      "fileHash": "45129e83",
+      "needsInterop": false
+    },
+    "@angular/platform-browser": {
+      "src": "../../../../../../node_modules/@angular/platform-browser/fesm2022/platform-browser.mjs",
+      "file": "@angular_platform-browser.js",
+      "fileHash": "8d778c36",
+      "needsInterop": false
+    },
+    "@angular/router": {
+      "src": "../../../../../../node_modules/@angular/router/fesm2022/router.mjs",
+      "file": "@angular_router.js",
+      "fileHash": "ddec352b",
+      "needsInterop": false
+    },
+    "@ng-web-apis/midi": {
+      "src": "../../../../../../node_modules/@ng-web-apis/midi/fesm2022/ng-web-apis-midi.mjs",
+      "file": "@ng-web-apis_midi.js",
+      "fileHash": "b756feaf",
+      "needsInterop": false
+    }
+  },
+  "chunks": {
+    "chunk-MJZLQSMY": {
+      "file": "chunk-MJZLQSMY.js"
+    },
+    "chunk-BGDV5MPB": {
+      "file": "chunk-BGDV5MPB.js"
+    },
+    "chunk-RXD3LYH4": {
+      "file": "chunk-RXD3LYH4.js"
+    }
+  }
+}
